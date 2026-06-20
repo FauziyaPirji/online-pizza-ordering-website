@@ -1,0 +1,80 @@
+#logo{
+       width:10%;
+	   height:10%;
+	   float:left;
+}
+.navigation{
+	         overflow:hidden;
+			 background-color:red;
+}
+.navigation a{
+				float:left;
+				color:white;
+				text-align:center;
+				padding:15px 40px;
+				text-decoration:none;
+				font-size:17px;
+}
+.navigation a:hover{
+						background-color:lightgreen;
+						color:white;
+						text-decoration:underline;
+}
+.navigation a.active{
+						background-color:lightgreen;
+						color:white;
+}
+#advimage{
+	       width:100%;
+	       height:70%;
+}
+#hr1{
+	width:100%;
+	height:1%;
+	background-color:red;
+	border:red;
+}
+#restaurant{
+				width:80%;
+				height:60%;
+				border-radius:50%;
+				border:1px solid black;
+				padding:5px;
+				margin-top:30px;
+				float:left;
+}
+#res{
+		float:left;
+}
+#aboutus{
+		  width:45%;	
+		  float:left;
+		  margin-top:30px;
+}
+#real{
+	   color:red;
+}
+#contact{
+	      width:100%;
+	      background-color:black;
+		  color:white;
+		  float:left;
+		  margin-bottom:10px;
+		  margin-top:40px;
+}
+#contact #p2{
+	float:left;
+	margin-left:130px;
+}
+#contact #p3{
+	float:left;
+	margin-left:130px;
+}
+#contact #p4{
+	float:left;
+	margin-left:130px;
+}
+#contact #p5{
+	float:left;
+	margin-left:130px;
+}

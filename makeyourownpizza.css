@@ -1,0 +1,258 @@
+#logo{
+       width:10%;
+	   height:10%;
+	   float:left;
+}
+.navigation{
+	         overflow:hidden;
+			 background-color:red;
+}
+.navigation a{
+				float:left;
+				color:white;
+				text-align:center;
+				padding:15px 40px;
+				text-decoration:none;
+				font-size:17px;
+}
+.navigation a:hover{
+						background-color:lightgreen;
+						color:white;
+						text-decoration:underline;
+}
+.navigation a.active{
+						background-color:lightgreen;
+						color:white;
+}
+#div1{
+		width:300px;
+		height:50px;
+		transition:width 2s, height 2s, transform 2s;
+}
+#div1:hover{
+			width:300px;
+			height:50px;
+			transform:rotate(360deg);
+			color:orangered;
+}
+#div2{
+		width:300px;
+		height:50px;
+		transition:width 2s, height 2s, transform 2s;
+}
+#div2:hover{
+			width:300px;
+			height:50px;
+			transform:rotate(360deg);
+			color:orangered;
+}
+#div3{
+		width:300px;
+		height:50px;
+		transition:width 2s, height 2s, transform 2s;
+}
+#div3:hover{
+			width:300px;
+			height:50px;
+			transform:rotate(360deg);
+			color:orangered;
+}
+#div4{
+		width:400px;
+		height:50px;
+		transition:width 2s, height 2s, transform 2s;
+}
+#div4:hover{
+			width:400px;
+			height:50px;
+			transform:rotate(360deg);
+			color:orangered;
+}
+#saurce{
+		margin-top:40px;
+		font-family:cursive;
+}
+#cart-container1{
+				width:15%;
+				height:35%;
+				border-radius:20px;
+				box-shadow:0px 25px 40px red;
+				float:left;
+				margin-left:60px;
+				margin-top:50px;
+}
+#sauce1{
+			width:50%;
+			height:50%;
+			margin-left:50px;
+			
+}
+#sauce2{
+			width:50%;
+			height:50%;
+			margin-left:50px;
+			
+}
+#sauce3{
+			width:70%;
+			height:50%;
+			margin-left:30px;
+			margin-top:10px;
+			
+}
+#sauce4{
+			width:70%;
+			height:50%;
+			margin-left:30px;
+			
+}
+#sauce5{
+			width:70%;
+			height:50%;
+			margin-left:30px;
+			
+}
+#name{
+		margin-left:30px;
+		margin-top:0;
+}
+#checkbox{
+			margin-left:70px;
+}
+#cart-container2{
+				width:15%;
+				height:35%;
+				border-radius:20px;
+				box-shadow:0px 25px 40px black;
+				float:left;
+				margin-left:225px;
+				margin-top:50px;
+}
+#cheese{
+		margin-top:70px;
+		font-family:cursive;
+}
+#cheese1{
+			width:50%;
+			height:50%;
+			margin-left:50px;
+			
+}
+#cheese2{
+			width:50%;
+			height:50%;
+			margin-left:50px;
+			
+}
+#cheese3{
+			width:50%;
+			height:50%;
+			margin-left:50px;
+			
+}
+#cart-container3{
+				width:15%;
+				height:35%;
+				border-radius:20px;
+				box-shadow:0px 25px 40px red;
+				float:left;
+				margin-left:225px;
+				margin-top:50px;
+}
+#meat{
+		margin-top:70px;
+		font-family:cursive;
+}
+#meat1{
+			width:50%;
+			height:50%;
+			margin-left:50px;
+			
+}
+#meat2{
+			width:50%;
+			height:50%;
+			margin-left:50px;
+			
+}
+#meat3{
+			width:50%;
+			height:50%;
+			margin-left:50px;
+			
+}
+#cart-container4{
+				width:15%;
+				height:35%;
+				border-radius:20px;
+				box-shadow:0px 25px 40px black;
+				float:left;
+				margin-left:120px;
+				margin-top:50px;
+}
+#topping{
+		margin-top:70px;
+		font-family:cursive;
+}
+#topping1{
+			width:50%;
+			height:50%;
+			margin-left:50px;
+			
+}
+#topping2{
+			width:50%;
+			height:50%;
+			margin-left:50px;
+			
+}
+#topping3{
+			width:50%;
+			height:50%;
+			margin-left:50px;
+			
+}
+#topping4{
+			width:50%;
+			height:50%;
+			margin-left:50px;
+			
+}
+#topping5{
+			width:50%;
+			height:50%;
+			margin-left:50px;
+}
+#topping6{
+			width:50%;
+			height:50%;
+			margin-left:50px;
+			
+}
+#topping7{
+			width:50%;
+			height:50%;
+			margin-left:50px;
+			
+}
+#topping8{
+			width:50%;
+			height:50%;
+			margin-left:50px;
+			
+}
+#buttongreen{
+	    width:150px;
+		padding:15px;
+		text-align:center;
+		margin-top:20px;
+		border-radius:25px;
+		font-weight:bold;
+		border:2px solid green;
+		background:transparent;
+		margin-top:50px;
+		margin-bottom:30px;
+}
+#buttongreen:hover{
+					background:green;
+}
